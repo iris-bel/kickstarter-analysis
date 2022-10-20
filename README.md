@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 This project analyzes data from Kickstarter Campaigns in order to reveal the characteristics of successful campaigns
 ---
-*Theater projects are the most popular kickstarter campaigns in the US, and over 50% of these campaigns are successful
+* Theater projects are the most popular kickstarter campaigns in the US, and over 50% of these campaigns are successful
 ---
 ![Outcomes_Based_on_Launch_Date.png](Outcomes_Based_on_Launch_Date.png)
 ---
