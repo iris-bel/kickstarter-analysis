@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-### This project analyzes data from a variety Kickstarter Campaigns in order to reveal the characteristics of successful campaigns. Specifically, the analysis focuses on the characteristics of campaigns in the Theater category and the Play subcategory and seeks to determine the optimal financial goal and launch date to ensure that Louise develops a successful campaign to fund her new play.
+### This project analyzes data from a variety Kickstarter Campaigns in order to explore the conditions leading to successful campaigns. Specifically, the analysis focuses on the characteristics of campaigns in the Theater category and the Play subcategory and seeks to determine the optimal financial goal and launch date to ensure that Louise develops a successful campaign to fund her new play.
 
 ## Analysis and Challenges
 
