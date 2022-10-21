@@ -9,7 +9,7 @@ This analysis sought to uncover the outcomes of a set of Kickstarter campaigns b
 
 ##### Analysis of Outcomes based on Launch Date
 
-![Outcomes_Based_on_Launch_Date.png](Outcomes_Based_on_Launch_Date.png)
+![Theater_Outcomes_vs_Launch.png](Theater_Outcomes_vs_Launch.png)
 
 We looked at the distribution of campaign outcomes for theater Kickstarters based on the launch date of the campaign in order to see if there is a time of the year where campaigns are particularly successful. In order to do this we created a pivot chart that plots successful, failed, and canceled theater campaigns according to the month of the year that they were launched, as seen in the image above.
 
