@@ -15,7 +15,7 @@ We looked at the distribution of campaign outcomes for theater Kickstarters base
 
 The results reveal that May-July saw the most successsful kickstarter campaigns, suggesting that this period may be a good time to launch a campaign. However, the number of failed kickstarter campaigns is also relatively high during this period, only to be outdone by November. This suggests that the period of May-July might simply be the time period when the most kickstarter campaigns are launched regardless of their outcomes. The challenge presented by this visualization is that it does not provide information on the percentage of total campaigns that were either successful or failed.
 
-!Percentage image
+![Outcomes_vs_Launch_Date_Percentage.png](Outcomes_vs_Launch_Date_Percentage.png)
 
 When we calculate the percentages of successful, failed, and canceled campaigns of the total campaigns launched each month and plot them as seen above, we see that the percentage of successsful campaigns remains steadily within the 57-67% throughout the entire year. The exception of note is December, when the number of successsful campaigns decreases to 49%. December may not be a good month to start a theater kickstarter campaign. 
 
@@ -27,7 +27,7 @@ We also looked at the distribution of campaign outcomes specifically for play ki
 
 The results suggest that the play kickstarter campaigns that saw the most success (between a 73-76% success rate) were campaigns with a goal of less than $5000. However, the chart above also suggests that campaigns with a goal of $35000-44999 also had a relatively high success rate (of 67%). The challenge that is presented by this visualization is that it does not provide information on how many campaigns were actually launched in each fundraising interval. So while 67% of campaigns with a fundraising goal of $35000-44999 were successful, this only represents 6 successful campaigns. It is unclear whether this success rate would be maintained given a larger sample size of campaigns with goals in this fundraising interval. 
 
-!Outcomes vs Goals Integers
+![Outcomes_vs_Goals_Integers.png](Outcomes_vs_Goals_Integers.png)
 
 The above bar graph displays the total number of successful and failed plays campaigns by goal interval. This visualization paints a clearer picture because it shows us the total number of successful campaigns per fundraising goal, revealing that there were substantially more successful campaigns in the $1000-4999 range than in the $35000-39999 range even though the percentage of total successful campaigns in each of these intervals is similar.
 
