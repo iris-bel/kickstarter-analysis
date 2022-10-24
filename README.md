@@ -21,7 +21,7 @@ When we calculate the percentages of successful, failed, and canceled campaigns 
 
 ##### Analysis of Outcomes based on Goals
 
-![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 We also looked at the distribution of campaign outcomes specifically for play kickstarter campaigns based on the fundraising goal of each campaign. We did this by filtering the kickstarter data set for successful, failed and canceled play campaigns sorted into fundraising goals of $5000 intervals as seen on the chart above.
 
